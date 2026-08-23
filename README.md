@@ -11,8 +11,8 @@ Este repositorio contiene los notebooks, funciones y reportes desarrollados a lo
 ```text
 analisis-datos-python-hidalgo-kizzye/
 │
-├── README.md                              \
-├── requirements.txt                       # pandas
+├── README.md                              
+├── requirements.txt                       
 ├── notebooks/
 │   ├── semana_02_introduccion.ipynb
 │   ├── semana_03_fundamentos_python.ipynb
